@@ -1,0 +1,3 @@
+[submodule "lib/base-groovy-tcp"]
+	path = lib/base-groovy-tcp
+	url = https://github.com/sweetp/base-groovy-tcp.git
