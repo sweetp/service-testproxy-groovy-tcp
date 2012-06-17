@@ -1,4 +1,7 @@
 This service shows you how to call other sevices in a TCP service.
+You can test it with following command:
+
+    sweetp -p none -Porigin="tests/service/java/sayhello" tests service testproxy call
 
 The service uses a [base class](https://github.com/sweetp/base-groovy-tcp)
 for TCP communication, look at that
